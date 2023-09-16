@@ -1,4 +1,4 @@
-### Nicolas Thivierge, 300136272
+### SEG4105 Nicolas Thivierge, 300136272
 
 ## Brainstorm
 -Planning the project\
