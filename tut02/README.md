@@ -22,4 +22,6 @@ Always need to dive into request before starting them. A very complex request th
 
 ## Chapter 4
 
-This chapter focuses on finding the elements. First need to find the right people for the job, than need to set the correct level of detail in the designs.
+This chapter focuses on finding the elements. First need to find the right people for the job, than need to set the correct level of detail in the designs. This drawing should allow for decision of a specific solution. For this you can use the process of breadboarding, this give's the right level of abstraction. The drawing for this step will contain 3 components, places, affordances and connection lines.
+
+It used an example of auto pay, the place is where the customer can activate auto pay. Affordance is more like how you+ turn it on and the connection lines is more the steps to get to it.
