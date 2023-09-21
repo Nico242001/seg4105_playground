@@ -18,9 +18,9 @@ The book gave an example of how to use shaping for the development of a calendar
 
 ## Chapter 3
 
-This chapter focuses on setting bounderies. It explains how it's important to not jump the gun on work when it first present's itself. It's important not to get too excited over the a task as it can set unrealistic expectations. You need to be able to set appetite, this allow's to set how much work is able to be done during a period of time. An appetite is not an estimate, you set how much time first and try to fit in work within that time.
+This chapter focuses on setting boundaries (Defining what you are trying to do). This explains how important it is not to rush into work when it first presents itself. An assessment of the value of the idea should take place to determine whether time can be invested in it. Appetite is what allows you to determine the time budget (small batch or large batch). An appetite is not an estimate, you first set how long and try to fit in work within that time frame. The best solution always depends on time.
 
-Always need to dive into request before starting them. A very complex request that could take very long could have an alternative solution that could take very little time in comparaison. By doing so you are also to narrow down the problem.
+It's important not to get too excited about a new idea, as it can create unrealistic expectations. You should always delve into the request/idea before starting them. A very complex request/idea that could take a very long time might have an alternative solution that could take very little time in comparison. In doing so, you also narrow down the problem and try to understand what is driving the demand. It is also necessary to monitor requests asking for a "redesign", a "refactor"... not motivated by a simple problem.
 
 ## Chapter 4
 
