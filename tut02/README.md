@@ -10,9 +10,11 @@ Numero d'étudiant: 300136272
 
 ## Chapter 2
 
-This chapter introduced the basic principales of shaping. It states how important it is to not set too much detail as it would make developpers concentrate on the wrong things during development. It is also important to not give too little imformation as this would not be enough information to properly guide developers. They arent mind readers, so they cant guess what someone wants.
+This chapter introduced the basic principles of shaping. It highlights how important it is not to define too many details, as this will cause developers to focus on the wrong things during development. It is also important not to give too little information as this would not be enough to properly guide developers. They can't read minds, so they can't guess what someone wants.
 
-It gave an example of how to use shaping for the development of a calendar. It uses this example to show that shaping should be used to indicate what should be done and what should not be done during a fixed a preiod of time. The four main steps of shaping are set boundaries, rough out the elements, address risks and rabbit holes and write the pitch.
+There are 3 main properties to shaped work. Property 1, It's Rough, it means the work is unfinished, allowing designers and programmers to apply their own judgment. Property 2, It's solved, this means that even if the work is not finished, it has been thought through and all the elements necessary for the solution are present. Property 3, It's Bounded, what not to do, when and where to stop are all defined.
+
+The book gave an example of how to use shaping for the development of a calendar. It uses this example to show that shaping should be used to indicate what should be done and what should not be done during a fixed a preiod of time. The four main steps of shaping are set boundaries, rough out the elements, address risks and rabbit holes and write the pitch.
 
 ## Chapter 3
 
