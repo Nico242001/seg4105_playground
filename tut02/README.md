@@ -24,10 +24,6 @@ It's important not to get too excited about a new idea, as it can create unreali
 
 ## Chapter 4
 
-This chapter focuses on finding the elements. First we need to find the right people for the job, either need to be alone or with someone of similar knoweledge and ability. It's critical to avoid the wrong detail in wireframes, no unecessary details in order to not restrict. A concept from electrical engineering called breadboarding is used in order to set the correct level of abstraction.
+This chapter focuses on finding the elements. First we need to find the right people for the job, either need to be alone or with someone of similar knoweledge and ability. It's critical to avoid the wrong detail in wireframes, no unecessary details in order to not restrict. A concept from electrical engineering called breadboarding is used in order to set the correct level of abstraction. The drawing for this step will contain 3 components, places which is a place in the product like a home page, affordances actions the user can do and connection lines how affordance navigate's a user.
 
-
-
-than need to set the correct level of detail in the designs. This drawing should allow for decision of a specific solution. For this you can use the process of breadboarding, this give's the right level of abstraction. The drawing for this step will contain 3 components, places, affordances and connection lines.
-
-It used an example of auto pay, the place is where the customer can activate auto pay. Affordance is more like how you+ turn it on and the connection lines is more the steps to get to it.
+At the end of the mockups should be able to have a small to do list. This should start to give direction to the task while leaving room for creativity with the designers.
