@@ -27,3 +27,9 @@ It's important not to get too excited about a new idea, as it can create unreali
 This chapter focuses on finding the elements. First we need to find the right people for the job, either need to be alone or with someone of similar knoweledge and ability. It's critical to avoid the wrong detail in wireframes, no unecessary details in order to not restrict. A concept from electrical engineering called breadboarding is used in order to set the correct level of abstraction. The drawing for this step will contain 3 components, places which is a place in the product like a home page, affordances actions the user can do and connection lines how affordance navigate's a user.
 
 At the end of the mockups should be able to have a small to do list. This should start to give direction to the task while leaving room for creativity with the designers.
+
+## Chapter 5
+
+This chapter focuses on finding any potential issues that could impact the project. The concept of rabbit holes is introduced which is an unexpected challenge that can disturb the project. If a rabbit hole does present itself it can cause the project to be abandoned or restarted at a later date. That is why it is critical to exam all aspects of the potential solution. In order to prevent potentiel problems we can use "patching", it's like making a clear and simple design to simplify a major problem. 
+
+If a certain feature ends up being to complicated it might be worth to evaluate once again if it's worth implimenting, might need to cut back on certain aspects. It's also important to talk with technical experts as it's important to determine if a feature is possible within the time given for the project. It also allows you to go over any possible risk that could come up during your project.
