@@ -21,3 +21,14 @@ Who can pitch?:
 They talk about how user-centered development can be a bad approach sometimes because it often proposes a specific solution, which is not the desired approach.
 
 ## Rabbit Holes
+
+What is a rabbit hole?:
+-They also talk about rabbit holes and the importance of avoiding them. This could often lead to dead ends, no significant progress or work that end's up being abandonned.  
+-Need to identify any potential rabbit holes at the beginning of the pitch.  
+-Features that are cool but not used often could be potential rabbit holes.  
+
+Tracer bullet:
+-Can be used to gain information on unknown aspects.
+-Allows to give a proper estimate for potential work, allows to identify rabbit holes.
+-Usually about 2 days.
+-Could be seen as wasted 2 days but this allows to gain knowledge.
