@@ -29,8 +29,8 @@ The mortgage calculator would allow people to evaluate the affordability of a ho
 ![image](https://github.com/Nico242001/seg4105_playground/assets/91162102/b2c8274f-6023-46c5-bcf8-ef3d006d13ee)
 
 # Risk and Rabbit Holes
-Here are some of the rabbit holes I have been able to come up with. 
-1- Including an option in the calculator for extra mortgage payments.
-2- Refinancing options within the calculator would potentially add much complexity.
-3- Allowing for the option of calculation with adjustable-rate mortgages.
-4- Allowing for implementation of every local regulation possible.
+Here are some of the rabbit holes I have been able to come up with.  
+1- Including an option in the calculator for extra mortgage payments. 
+2- Refinancing options within the calculator would potentially add much complexity. 
+3- Allowing for the option of calculation with adjustable-rate mortgages. 
+4- Allowing for implementation of every local regulation possible. 
