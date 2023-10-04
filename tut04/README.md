@@ -13,4 +13,12 @@ This chapter talks about how six week cycles is used in project management. It a
 
 
 
-## Chap 9 -
+## Chap 9 - Place Your Bets
+
+Existing products: We use the standard shape up process for existing products. 
+
+New products: There's three phases of new product development: R&D, Production and Cleanup. Senior members lead this phase and the goal is to learn and establish a foundation. Production, the architecture decisions are made, and then other team members can start contributing. Cleanup, the product is refined.
+
+Questions to ask: When making bets the stakeholders consider the importance of the problem, the appetite, the solution, and availibility of team members.
+
+After the bets are made someone from the orginization will announce the selected project.
