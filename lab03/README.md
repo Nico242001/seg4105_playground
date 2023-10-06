@@ -29,8 +29,9 @@ The mortgage calculator would allow people to evaluate the affordability of a ho
 
 
 
-### Page 2
-![image](https://github.com/Nico242001/seg4105_playground/assets/91162102/332b0ad3-3692-40bf-99c5-2f0241cef80d)
+### Results page
+![image](https://github.com/Nico242001/seg4105_playground/assets/91162102/3f1eec80-c7a9-4356-b59c-3d6c0e06aa1b)
+
 
 
 # Risk and Rabbit Holes
