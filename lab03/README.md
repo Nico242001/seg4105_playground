@@ -24,8 +24,9 @@ The mortgage calculator would allow people to evaluate the affordability of a ho
 
 ## Fat Marker Sketches
 
-### Page 1
-![image](https://github.com/Nico242001/seg4105_playground/assets/91162102/5e0e88de-d713-47e8-b658-81f278be66a8)
+### Calculator page
+![image](https://github.com/Nico242001/seg4105_playground/assets/91162102/0bdb123a-ff9f-4fe9-b61b-a68a8950ae85)
+
 
 
 ### Page 2
