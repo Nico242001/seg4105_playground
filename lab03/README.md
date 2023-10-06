@@ -18,7 +18,8 @@ The mortgage calculator would allow people to evaluate the affordability of a ho
 # Rough out the Elements
 
 ## Breadboarding
-![image](https://github.com/Nico242001/seg4105_playground/assets/91162102/da48381c-b550-4d10-891f-0dddd923c8ad)
+![image](https://github.com/Nico242001/seg4105_playground/assets/91162102/b059ed51-ff36-4c43-996e-375a0c4cd052)
+
 
 
 ## Fat Marker Sketches
