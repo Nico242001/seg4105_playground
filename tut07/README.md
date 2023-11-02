@@ -34,3 +34,17 @@ Artifacts:
 Product Backlog, everything that is needed in a product, icludes all tasks, features, bugs and any other thing needed to implement for the product. It is important to review the backlog in order to not keep usless debt.
 
 Sprint Backlog, is a set of Product Backlog items selected for a sprint to be completed.
+
+## Show Progress
+
+### Tasks that arent there
+
+Initial to do list do not contain all the tasks that will be done for a project. As the work gets started more work/tasks get discovered this would then mean that the to do list needs to be modified by adding or removing new tasks as the projetct moves along. This can lead to missleading estimates therefore more context on the work inside the those scopes are needed to determine all upcoming work.
+
+### Estimates dont show uncertainty
+
+Theres estimates for two different types of tasks. One for a task a team as done several times, if a team in this case estimates 4 hours it can be confident it will take 4 hours to complete. The second of those task is a unfamiliar task, in this case if a team estimates 4 hours it might take 4 hours or it might take 3 days.
+
+### Work is like a hill
+
+
