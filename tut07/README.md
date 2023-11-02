@@ -24,3 +24,13 @@ The Sprint, is a set time for developpement were certain task/features are set t
 Sprint plainning, the scrum team works together to plan the next Sprint. The team will look at and determine what can be done from the backlog over the course of the next sprint in regards to the objective od the Product Owner.
 
 Daily Scrum, the daily scrum is a 15 minute meeting done every day for the team to plan work for the next 24 hours. It can be used to discuss the work done in the past 24 hours as well. It is the Scrum master's job to ensure these meetings take place.
+
+Sprint Review, it is held at the end of the Sprint to inspect the increment and adapt the product backlog if needed. The team collaborates about what as been done over the Sprint.
+
+Sprint Retrospective, the team meets after the Sprint review to discuss improvements that can be made, this meeting is supposed to be positive.
+
+Artifacts:
+
+Product Backlog, everything that is needed in a product, icludes all tasks, features, bugs and any other thing needed to implement for the product. It is important to review the backlog in order to not keep usless debt.
+
+Sprint Backlog, is a set of Product Backlog items selected for a sprint to be completed.
