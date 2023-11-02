@@ -47,4 +47,16 @@ Theres estimates for two different types of tasks. One for a task a team as done
 
 ### Work is like a hill
 
+The first part is the uphill phase when figuring things out, once eveything is known (all the work) we go downhill. A hill cart allows to keep track of this progess.
 
+### Scopes on the hill
+
+Scopes can be combined with the hill, the scopes supplies the language and the hill describes the status of each scope.
+
+### Status without asking
+
+The Basecamp feature for creating hill charts allow's team members to easily view the progress of the project. This allows managers to view past states of the project progress vs current state of the project's progress. This can all be done without them needing to disrupt developpers to get status updates.
+
+### Nobody says "I don't know"
+
+Hill charts allow us to catch when someone is stuck on something without them having to say "I am stuck". They can then be given the necessary ressources to get unstuck.
