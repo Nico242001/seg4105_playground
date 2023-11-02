@@ -60,3 +60,15 @@ The Basecamp feature for creating hill charts allow's team members to easily vie
 ### Nobody says "I don't know"
 
 Hill charts allow us to catch when someone is stuck on something without them having to say "I am stuck". They can then be given the necessary ressources to get unstuck.
+
+### Prompts to refactor the scopes
+
+Sometimes a "stuck" scope might not actually be stuck. It might have several components to it that are causing it to take long. In this case it might be beneficial to seperate the scope into smaller scopes.
+
+### Build your way uphill
+
+Sometimes a scope end's up sliding down this is because the uphill work is done in someone's head. By keeping it in their heads they dont realize the unknowns.
+
+### Solve in the right sequence
+
+Effective team's need to look at the scopes with the most unkowns first because those are the scopes that might end up taking the most time to complete. These are often the most important things of the scope and the other tasks can be easily completed towards the end of the project.
